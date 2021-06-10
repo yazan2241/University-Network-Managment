@@ -5,10 +5,14 @@ Create an Internal network inside your organization to connect all your Organiza
 
 ----------------------------------------Who we are -----------------------------------
 
-I am yazan Hasan
-I studied Ingineering in Information Technology at Tartous University
+this project created by
 
-I build this project Under the supervision of Doctor Loubna ali
+Yazan Hasan
+Mohammed Alkhazem
+
+Under the supervision of Doctor Loubna ali
+
+students in Information Technology Ingineering at Tartous University
 
 Note : The attached files were written in Arabic and submitted to the university library
 

@@ -95,22 +95,39 @@ but we add a full Description about the Policies in Attached Document
 #Applied Policies are:
 
 1 - Supervising access to the control panel
+
 2 - Prevent Windows from storing a LAN Manager hash
+
 3 - Disable forced system restart
+
 4 - Do not allow removable media drives, DVDs, and discs Compact and floppy drives
+
 5 - Restrict software installations
+
 6 - Disable the guest account
+
 7 - Set the minimum password length to the upper limits
+
 8 - Set the maximum password age to minimum
+
 9 - Disable anonymous SID enumeration
+
 10 - Prevent the use of websites
+
 11 - Local Roaming Profile
+
 12 - Prevent the use of removable devices
+
 13 - Prevent access to system disk C
+
 14 - Prevent changing the desktop picture
+
 15 - Supervising access to the control panel
+
 16 - Windows Server Backup (WSB)
+
 17 - Convert Share Folder to Disk on PC
+
 
 
 --------------------

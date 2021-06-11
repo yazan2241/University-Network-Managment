@@ -4,29 +4,29 @@ Create an Internal network inside your organization to connect all your Organiza
 
 
 
-----------------------------------------Who we are -----------------------------------
+# Who we are
 
 this project created by
 
-#Yazan Hasan
+# Yazan Hasan
 
-#Mohammed Alkhazem
+# Mohammed Alkhazem
 
-Under the supervision of #Doctor Loubna ali
+Under the supervision of # Doctor Loubna ali
 
 students in Information Technology Ingineering at Tartous University
 
 Note : The attached files were written in Arabic and submitted to the university library
 
 
--------------------------------- The purpose of the project: --------------------------------
+# The purpose of the project: 
 
 Building and managing an internal network between University users (Dean, Heads of Departments – –
 Administrative offices, doctors, students (in order to share resources) devices – – –
 apps info)
 
 
---------------------------------------- IntraNet -------------------------------
+# Intranet 
 
 
 It is defined as a network that connects in its communication between a group of computers
@@ -38,7 +38,7 @@ Serves its interest, and opens the way for the passage of data and information t
 interest, and concerns the work of both parties from the authorized employees or users of the network
 
 
-------------------------------- Network building steps -------------------------------
+# Network building steps 
 
 ✓ Documentation in which the network infrastructure is checked (switch cable service points – – –
 router(
@@ -54,7 +54,7 @@ and groups and users (organization unit, groups, users
 
 ✓ Policies applied to organizational units and users
 
-------------------------------- Documentation -------------------------------
+# Documentation 
 
 Floor 0
 
@@ -89,7 +89,7 @@ tracer and the file is attached with the project files
 
 
 
--------------------------------------  Policies -----------------------------------------
+# Policies 
 
 
 Policies enable system administrators to gain a high level of control over

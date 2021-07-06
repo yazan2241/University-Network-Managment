@@ -10,8 +10,6 @@ this project created by
 
                                                     Yazan Hasan
 
-                                                  Mohammed Alkhazem
-
                                      Under the supervision of Doctor Loubna ali
 
                          students in Information Technology Ingineering at Tartous University
